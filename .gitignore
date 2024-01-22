@@ -1,0 +1,6 @@
+# MySql datafiles
+data/
+dbdata/
+
+# Dependency directories
+node/node_modules/
