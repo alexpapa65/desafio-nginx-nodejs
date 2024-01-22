@@ -12,7 +12,7 @@ Criar docker-compose para gerar aplicação na porta 8080 que use nginx como pro
 ## Roteiro de uso
 
 ```bash
-git clone alexpapa65/desafio-nginx-nodejs
+git clone https://github.com/alexpapa65/desafio-nginx-nodejs.git
 cd desafio-nginx-nodejs
 docker compose up -d
 ```
